@@ -1,0 +1,92 @@
+[
+  {
+    "_id": {
+      "$oid": "63428599a9ddb9402442f8b8"
+    },
+    "name": "Supriya Naik",
+    "accountno": "00000100",
+    "email": "supriya@gmail.com",
+    "accountbal": 1000
+  },
+  {
+    "_id": {
+      "$oid": "63428599a9ddb9402442f8b9"
+    },
+    "name": "Aman Singh",
+    "accountno": "00000101",
+    "email": "aman@gmail.com",
+    "accountbal": 500
+  },
+  {
+    "_id": {
+      "$oid": "63428599a9ddb9402442f8ba"
+    },
+    "name": "Sangeeta Pawar",
+    "accountno": "00000102",
+    "email": "sangeeta@gmail.com",
+    "accountbal": 8000
+  },
+  {
+    "_id": {
+      "$oid": "63428599a9ddb9402442f8bb"
+    },
+    "name": "Rahul Vaidya",
+    "accountno": "00000103",
+    "email": "rahul@gmail.com",
+    "accountbal": 10000
+  },
+  {
+    "_id": {
+      "$oid": "63428599a9ddb9402442f8bc"
+    },
+    "name": "Priya Deshpande",
+    "accountno": "00000104",
+    "email": "priya@gmail.com",
+    "accountbal": 6500
+  },
+  {
+    "_id": {
+      "$oid": "63428599a9ddb9402442f8bd"
+    },
+    "name": "Ajay Patil",
+    "accountno": "00000105",
+    "email": "ajay@gmail.com",
+    "accountbal": 2000
+  },
+  {
+    "_id": {
+      "$oid": "63428599a9ddb9402442f8be"
+    },
+    "name": "Sonali Desai",
+    "accountno": "00000106",
+    "email": "sonali@gmail.com",
+    "accountbal": 2050
+  },
+  {
+    "_id": {
+      "$oid": "63428599a9ddb9402442f8bf"
+    },
+    "name": "Shubham Naik",
+    "accountno": "00000107",
+    "email": "shubham@gmail.com",
+    "accountbal": 2000
+  },
+  {
+    "_id": {
+      "$oid": "63428599a9ddb9402442f8cb"
+    },
+    "name": "Rutuja jadhav",
+    "accountno": "00000108",
+    "email": "rutuja@gmail.com",
+    "accountbal": 2000
+  },
+  {
+    "_id": {
+      "$oid": "63428763a9ddb9402442f8d1"
+    },
+    "name": "Rohan Pawar",
+    "accountno": "00000109",
+    "email": "rohan@gmail.com",
+    "accountbal": 2050
+  }
+]

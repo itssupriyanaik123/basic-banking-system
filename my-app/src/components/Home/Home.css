@@ -1,0 +1,14 @@
+.heading span {
+  font-size: 4rem;
+  color: rgb(139, 232, 26);
+  font-weight: bolder;
+  margin-left: 10px;
+}
+.info-lines {
+  line-height: 25px;
+  text-align: start;
+}
+
+img {
+  height: 300px;
+}
